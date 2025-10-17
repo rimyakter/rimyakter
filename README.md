@@ -46,9 +46,9 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://github.com/rimyakter" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://www.linkedin.com/in/asha-akter-rimy/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  
 </p>
 
 ---
@@ -56,8 +56,8 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimyakter&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimyakter&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 <p align="center">
