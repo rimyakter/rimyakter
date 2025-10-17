@@ -57,7 +57,7 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 ### 📊 GitHub Stats
 
 
-![rimyakter's Stats](https://github-readme-stats.vercel.app/api?username=rimyakter&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![rimyakter's Stats](https://github-readme-stats.vercel.app/api?username=rimyakter&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![rimyakter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimyakter&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![Rimy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rimyakter&theme=tokyo-night)
 
