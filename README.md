@@ -57,12 +57,12 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rimyakter&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=rimyakter&theme=tokyonight" alt="GitHub Streak" height="160" />
+  ![rimyakter's Stats](https://github-readme-stats.vercel.app/api?username=rimyakter&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![rimyakter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rimyakter&theme=vue-dark&hide_border=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rimyakter&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+ ![rimyakter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimyakter&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 
