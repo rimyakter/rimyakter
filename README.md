@@ -61,7 +61,7 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimyakter&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
 ---
