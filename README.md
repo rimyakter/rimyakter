@@ -18,7 +18,7 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 ### 🔭 Current Activities
 
 - 🌱 Exploring **Next.js** for building full-stack applications.  
-- 🏗️ Working on a **tourism website** project.  
+- 🏗️ Working on a **Blood Bank website** project.  
 - 💬 Learning **Node.js** and **Express.js** to strengthen my backend understanding.  
 - 🧩 Contributing to open-source projects and improving my GitHub presence.  
 
