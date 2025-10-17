@@ -28,7 +28,7 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 
 #### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap" />
 </p>
 
 #### ⚙️ Backend
@@ -38,7 +38,7 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,figma" />
 </p>
 
 ---
