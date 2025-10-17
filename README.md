@@ -14,6 +14,17 @@ Currently, I'm enhancing my backend skills to become a more complete full-stack 
 Always eager to learn and collaborate on exciting projects that make a real impact. 🚀  
 
 ---
+📊 this week i spent my time on:
+
+| Technology | Time          | Usage                        | Percentage |
+|------------|---------------|-------------------------------|-----------|
+| React.js   | 12 hrs 49 mins| ██████████████████████░░░    | 87.64%    |
+| Next.js    | 1 hr 2 mins   | █▓░░░░░░░░░░░░░░░░░░░░░░░   | 07.09%    |
+| Markdown   | 17 mins       | ▒░░░░░░░░░░░░░░░░░░░░░░░░   | 01.97%    |
+| MongoDB    | 11 mins       | ▒░░░░░░░░░░░░░░░░░░░░░░░░   | 01.28%    |
+| Node.js    | 10 mins       | ▒░░░░░░░░░░░░░░░░░░░░░░░░   | 01.21%    |
+
+
 
 ### 🔭 Current Activities
 
@@ -65,6 +76,9 @@ Always eager to learn and collaborate on exciting projects that make a real impa
 
 
 ---
+
+
+
 
 ### ✨ Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
