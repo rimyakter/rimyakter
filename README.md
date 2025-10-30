@@ -15,7 +15,7 @@
 
 ### 👨‍💼 About Me
 
-I'm a passionate **Frontend Developer** focused on creating modern, responsive, and interactive web applications using **React.js**.  
+I'm a passionate **Full Stack Developer** focused on creating modern, responsive, and interactive web applications using **React.js**.  
 I enjoy turning complex problems into elegant, user-friendly designs.  
 Currently, I'm enhancing my backend skills to become a more complete full-stack developer.  
 Always eager to learn and collaborate on exciting projects that make a real impact. 🚀  
