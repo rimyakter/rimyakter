@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co.com/35RLzK39/banner.png)
+![Banner](https://i.ibb.co.com/yBBP7tVm/Github-Cover-photo.png)
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078FF;">Asa Akter Rimy</span></h1>
 <h3 align="center">💻 Full Stack Developer | React Enthusiast | Aspiring MERN Stack Developer</h3>
